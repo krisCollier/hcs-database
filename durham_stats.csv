@@ -1,0 +1,208 @@
+Player,Map,Category,Outcome,Accuracy,DamageDone,DamageTaken,ShotsFired,ShotsLanded,ShotsMissed,KD,KDA,Kills,Deaths,Assists,Betrayals,Suicides,Score,Perfects,Medals,TeamOutcome,TeamScore,LengthSeconds,TeamGameScore
+La Catarina,Solitude - Ranked,King of the Hill,Win,63.04,3485,1838,138,87,51,3.75,13.66,15,4,8,0,0,2460,0,8,Win,8785,367,4
+Manxcy,Solitude - Ranked,King of the Hill,Win,52.8,4530,2990,214,113,101,3.0,14.33,15,5,13,0,0,2360,1,10,Win,8785,367,4
+TheMageLord,Solitude - Ranked,King of the Hill,Win,40.82,2516,2378,147,60,87,2.2,9.0,11,5,9,0,0,1785,1,3,Win,8785,367,4
+BML 1999,Solitude - Ranked,King of the Hill,Win,50.0,3058,2684,164,82,82,1.5,7.66,12,8,11,0,0,2180,0,4,Win,8785,367,4
+being0003,Solitude - Ranked,King of the Hill,Loss,61.27,4227,3485,173,106,67,0.77,-2.33,10,13,2,0,0,1100,0,8,Loss,3035,367,0
+X2 PhantomZ,Solitude - Ranked,King of the Hill,Loss,46.08,1800,3506,102,47,55,0.29,-9.0,4,14,3,0,0,625,0,1,Loss,3035,367,0
+LAYZ2,Solitude - Ranked,King of the Hill,Loss,42.11,1330,3180,95,40,55,0.17,-9.0,2,12,3,0,0,535,0,0,Loss,3035,367,0
+Stratic bladeR,Solitude - Ranked,King of the Hill,Loss,47.62,2391,3476,126,60,66,0.43,-7.0,6,14,3,0,0,775,0,2,Loss,3035,367,0
+
+La Catarina,Live Fire - Ranked,Strongholds,Win,60.71,3605,1965,140,85,55,2.5,11.33,15,6,7,0,0,2135,3,12,Win,8065,454,49
+Manxcy,Live Fire - Ranked,Strongholds,Win,52.78,4285,3988,180,95,85,1.3,6.0,13,10,9,0,0,1885,0,4,Win,8065,454,49
+TheMageLord,Live Fire - Ranked,Strongholds,Win,51.08,3373,3905,139,71,68,1.0,3.0,10,10,9,0,0,1835,1,3,Win,8065,454,49
+BML 1999,Live Fire - Ranked,Strongholds,Win,56.93,3361,2501,137,78,59,2.83,13.33,17,6,7,0,0,2210,2,9,Win,8065,454,49
+being0003,Live Fire - Ranked,Strongholds,Loss,58.86,4430,4018,158,93,65,0.86,-0.66,12,14,4,0,0,1550,0,2,Loss,4575,454,250
+Stratic bladeR,Live Fire - Ranked,Strongholds,Loss,51.24,3139,4126,121,62,59,0.41,-8.0,7,17,6,0,0,1225,1,2,Loss,4575,454,250
+LAYZ2,Live Fire - Ranked,Strongholds,Loss,48.86,1930,3145,88,43,45,0.45,-5.66,5,11,1,0,0,700,0,5,Loss,4575,454,250
+X2 PhantomZ,Live Fire - Ranked,Strongholds,Loss,38.1,2707,3599,147,56,91,0.62,-4.33,8,13,2,0,0,1100,1,5,Loss,4575,454,250
+
+Manxcy,Forbidden - Ranked,CTF 3 Captures,Win,44.84,6519,6588,339,152,187,0.76,0.33,16,21,16,0,0,2920,0,6,Win,12635,883,3
+BML 1999,Forbidden - Ranked,CTF 3 Captures,Win,54.92,8107,6465,315,173,142,1.89,19.66,34,18,11,0,0,4105,3,20,Win,12635,883,3
+La Catarina,Forbidden - Ranked,CTF 3 Captures,Win,64.93,7352,6077,268,174,94,2.09,17.33,23,11,16,0,0,3505,2,8,Win,12635,883,3
+TheMageLord,Forbidden - Ranked,CTF 3 Captures,Win,48.98,5521,6744,245,120,125,0.61,-6.0,14,23,9,0,1,2105,0,2,Win,12635,883,3
+Faffy Woffle,Forbidden - Ranked,CTF 3 Captures,Loss,57.3,8235,8061,281,161,120,1.08,3.66,27,25,5,0,0,3220,2,8,Loss,9885,883,2
+reece roodles,Forbidden - Ranked,CTF 3 Captures,Loss,56.16,6482,6437,292,164,128,0.78,-3.66,18,23,4,0,0,2085,0,3,Loss,9885,883,2
+Foot6all Maniac,Forbidden - Ranked,CTF 3 Captures,Loss,57.31,6227,6675,260,149,111,0.89,2.0,17,19,12,0,0,3035,1,3,Loss,9885,883,2
+unders3390,Forbidden - Ranked,CTF 3 Captures,Loss,46.91,4648,6708,243,114,129,0.5,-8.33,10,20,5,0,0,1545,0,4,Loss,9885,883,2
+
+La Catarina,Streets - Ranked,Oddball,Win,63.26,12410,9789,460,291,169,1.78,26.0,41,23,24,0,0,5440,3,16,Win,20640,1322,2
+TheMageLord,Streets - Ranked,Oddball,Win,43.79,8955,11033,443,194,249,1.06,6.0,33,31,12,0,0,4700,4,13,Win,20640,1322,2
+Manxcy,Streets - Ranked,Oddball,Win,49.18,9892,10998,425,209,216,0.76,1.0,25,33,27,0,0,4860,2,10,Win,20640,1322,2
+BML 1999,Streets - Ranked,Oddball,Win,54.92,12416,11862,528,290,238,1.23,15.66,43,35,23,0,0,5640,3,20,Win,20640,1322,2
+Faffy Woffle,Streets - Ranked,Oddball,Loss,60.73,10617,10993,303,184,119,0.97,2.0,33,34,9,0,0,4800,3,19,Loss,16425,1322,1
+unders3390,Streets - Ranked,Oddball,Loss,51.54,9239,11603,390,201,189,0.56,-13.66,23,41,13,0,0,3155,2,12,Loss,16425,1322,1
+Foot6all Maniac,Streets - Ranked,Oddball,Loss,60.81,12475,10730,467,284,183,1.19,11.0,37,31,15,0,0,4695,3,11,Loss,16425,1322,1
+reece roodles,Streets - Ranked,Oddball,Loss,50.52,10798,10895,483,244,239,0.81,-2.0,29,36,15,0,0,3775,2,13,Loss,16425,1322,1
+
+La Catarina,Recharge - Ranked,Strongholds,Win,58.82,4979,3088,170,100,70,1.44,7.0,13,9,9,0,0,2145,1,5,Win,7420,471,69
+Manxcy,Recharge - Ranked,Strongholds,Win,40.27,4088,3105,226,91,135,1.4,5.66,14,10,5,0,0,1860,1,6,Win,7420,471,69
+BML 1999,Recharge - Ranked,Strongholds,Win,46.29,3781,3915,175,81,94,0.64,-0.33,7,11,11,0,0,1380,0,4,Win,7420,471,69
+TheMageLord,Recharge - Ranked,Strongholds,Win,51.95,3566,2520,154,80,74,2.5,10.0,15,6,3,0,0,2035,0,8,Win,7420,471,69
+Misguid3d Ghost,Recharge - Ranked,Strongholds,Loss,44.7,2528,4504,132,59,73,0.4,-7.33,6,15,5,0,0,1080,0,4,Loss,5345,471,250
+Spartarn Spy,Recharge - Ranked,Strongholds,Loss,58.33,3228,4259,132,77,55,0.79,-1.66,11,14,4,0,0,1450,1,3,Loss,5345,471,250
+SaltyicePack970,Recharge - Ranked,Strongholds,Loss,48.18,2473,3784,137,66,71,0.6,-2.33,6,10,5,0,0,1000,0,3,Loss,5345,471,250
+DoNotDefyMe,Recharge - Ranked,Strongholds,Loss,55.56,4189,3919,162,90,72,1.3,4.66,13,10,5,0,0,1815,0,11,Loss,5345,471,250
+
+La Catarina,Live Fire - Ranked,King of the Hill,Win,58.65,5755,4246,237,139,98,1.78,11.0,16,9,12,0,0,2775,1,6,Win,8865,590,4
+Manxcy,Live Fire - Ranked,King of the Hill,Win,47.45,4680,5159,196,93,103,0.72,-2.66,13,18,7,0,0,1975,1,6,Win,8865,590,4
+TheMageLord,Live Fire - Ranked,King of the Hill,Win,55.03,3743,5045,149,82,67,0.75,-2.33,12,16,5,0,0,1700,2,8,Win,8865,590,4
+BML 1999,Live Fire - Ranked,King of the Hill,Win,54.85,5377,4697,206,113,93,1.27,6.0,19,15,6,0,0,2415,1,7,Win,8865,590,4
+Misguid3d Ghost,Live Fire - Ranked,King of the Hill,Loss,50.88,3833,4807,114,58,56,0.73,-1.66,11,15,7,0,0,1535,0,6,Loss,8495,590,1
+DoNotDefyMe,Live Fire - Ranked,King of the Hill,Loss,68.55,7123,5449,248,170,78,1.31,9.33,21,16,13,0,0,3250,2,21,Loss,8495,590,1
+Spartarn Spy,Live Fire - Ranked,King of the Hill,Loss,60.71,4380,4830,168,102,66,1.58,9.33,19,12,7,0,0,2535,1,10,Loss,8495,590,1
+SaltyicePack970,Live Fire - Ranked,King of the Hill,Loss,48.99,3739,4877,198,97,101,0.41,-7.66,7,17,7,0,0,1175,0,1,Loss,8495,590,1
+
+Manxcy,Solitude - Ranked,Strongholds,Win,42.91,5387,4023,296,127,169,2.0,12.0,16,8,12,0,0,2810,3,13,Win,9230,535,250
+TheMageLord,Solitude - Ranked,Strongholds,Win,46.98,3114,5318,149,70,79,0.35,-9.0,6,17,6,0,0,1225,1,3,Win,9230,535,250
+BML 1999,Solitude - Ranked,Strongholds,Win,62.44,4970,3935,197,123,74,1.45,8.33,16,11,10,0,0,2510,4,12,Win,9230,535,250
+La Catarina,Solitude - Ranked,Strongholds,Win,58.88,5294,4187,214,126,88,2.0,12.33,20,10,7,0,0,2685,3,10,Win,9230,535,250
+Kaczeee,Solitude - Ranked,Strongholds,Loss,68.98,5297,4905,187,129,58,1.14,4.66,16,14,8,0,0,2510,1,7,Loss,7435,535,213
+Happy 9000,Solitude - Ranked,Strongholds,Loss,61.33,5784,4952,225,138,87,1.13,3.66,17,15,5,0,0,2425,3,9,Loss,7435,535,213
+DarkFireBlast 7,Solitude - Ranked,Strongholds,Loss,46.97,3613,4857,198,93,105,0.4,-7.0,6,15,6,0,0,1175,1,4,Loss,7435,535,213
+TheRealWIP03,Solitude - Ranked,Strongholds,Loss,46.36,2649,4191,151,70,81,0.5,-5.66,7,14,4,0,0,1325,0,1,Loss,7435,535,213
+
+Kaczeee,Recharge - Ranked,King of the Hill,Win,59.52,7370,5421,252,150,102,1.5,9.0,21,14,6,0,0,2525,3,11,Win,10650,691,4
+Happy 9000,Recharge - Ranked,King of the Hill,Win,52.8,7122,6070,322,170,152,1.25,8.33,20,16,13,0,0,3150,2,13,Win,10650,691,4
+DarkFireBlast 7,Recharge - Ranked,King of the Hill,Win,56.25,5898,6296,240,135,105,1.12,4.66,19,17,8,0,0,2450,3,9,Win,10650,691,4
+TheRealWIP03,Recharge - Ranked,King of the Hill,Win,50.57,4083,6042,261,132,129,0.81,0.33,13,16,10,0,0,2525,0,8,Win,10650,691,4
+Manxcy,Recharge - Ranked,King of the Hill,Loss,46.1,5984,6641,282,130,152,0.71,-1.66,15,21,13,0,0,2350,1,5,Loss,9710,691,2
+La Catarina,Recharge - Ranked,King of the Hill,Loss,57.24,6697,5137,283,162,121,1.46,10.33,19,13,13,0,0,2810,1,7,Loss,9710,691,2
+TheMageLord,Recharge - Ranked,King of the Hill,Loss,40.55,5679,6894,291,118,173,0.84,-0.66,16,19,7,0,0,2375,0,4,Loss,9710,691,2
+BML 1999,Recharge - Ranked,King of the Hill,Loss,49.19,5153,5979,246,121,125,0.65,-3.0,13,20,12,0,0,2175,0,4,Loss,9710,691,2
+
+Manxcy,Streets - Ranked,Slayer,Win,50.44,4912,3930,228,115,113,1.73,11.33,19,11,10,0,0,2400,1,11,Win,6700,483,50
+La Catarina,Streets - Ranked,Slayer,Win,50.81,2701,2816,124,63,61,0.88,1.66,7,8,8,0,0,1140,0,1,Win,6700,483,50
+TheMageLord,Streets - Ranked,Slayer,Win,54.34,4065,4007,173,94,79,0.58,-1.33,7,12,11,0,0,1250,2,5,Win,6700,483,50
+BML 1999,Streets - Ranked,Slayer,Win,60.36,4432,4672,169,102,67,1.13,3.33,17,15,4,0,0,1910,2,7,Win,6700,483,50
+TheRealWIP03,Streets - Ranked,Slayer,Loss,48.17,2636,3588,191,92,99,0.64,-1.66,7,11,7,0,0,1050,0,2,Loss,6010,483,46
+Happy 9000,Streets - Ranked,Slayer,Loss,63.54,5249,4807,192,122,70,1.38,8.0,22,16,6,0,0,2500,3,9,Loss,6010,483,46
+Kaczeee,Streets - Ranked,Slayer,Loss,57.3,4223,4164,178,102,76,0.83,0.66,10,12,8,0,0,1410,1,5,Loss,6010,483,46
+DarkFireBlast 7,Streets - Ranked,Slayer,Loss,54.86,3073,3761,144,79,65,0.64,-1.66,7,11,7,0,0,1050,0,2,Loss,6010,483,46
+
+Manxcy,Empyrean - Ranked,CTF 3 Captures,Win,51.71,5074,3701,205,106,99,2.11,13.0,19,9,9,0,0,2780,2,8,Win,7965,466,3
+La Catarina,Empyrean - Ranked,CTF 3 Captures,Win,66.67,3913,3520,150,100,50,1.11,4.66,10,9,11,0,0,1925,0,7,Win,7965,466,3
+TheMageLord,Empyrean - Ranked,CTF 3 Captures,Win,52.94,2962,3442,119,63,56,1.0,1.66,9,9,5,0,0,1735,0,2,Win,7965,466,3
+BML 1999,Empyrean - Ranked,CTF 3 Captures,Win,49.19,3027,3815,124,61,63,1.5,5.33,12,8,4,0,0,1525,0,5,Win,7965,466,3
+pb7bb7,Empyrean - Ranked,CTF 3 Captures,Loss,62.9,3617,3981,124,78,46,0.85,-0.66,11,13,4,0,0,1325,1,6,Loss,4555,466,0
+OthyYEHx,Empyrean - Ranked,CTF 3 Captures,Loss,48.82,3767,4199,127,62,65,0.6,-4.0,9,15,6,0,0,1200,2,4,Loss,4555,466,0
+Sir Britte,Empyrean - Ranked,CTF 3 Captures,Loss,57.23,3792,3741,166,95,71,0.7,-1.66,7,10,4,0,0,910,0,2,Loss,4555,466,0
+TTVWhaabamm1,Empyrean - Ranked,CTF 3 Captures,Loss,43.9,3250,3339,164,72,92,0.67,-2.33,8,12,5,0,0,1120,0,6,Loss,4555,466,0
+
+Manxcy,Live Fire - Ranked,Oddball,Win,48.81,8382,5990,379,185,194,1.58,16.0,30,19,15,0,0,3850,2,11,Win,13730,859,2
+TheMageLord,Live Fire - Ranked,Oddball,Win,50.87,7242,7373,230,117,113,1.15,5.66,23,20,8,0,0,3325,1,12,Win,13730,859,2
+La Catarina,Live Fire - Ranked,Oddball,Win,57.93,7990,4828,309,179,130,2.15,18.66,28,13,11,0,0,3650,2,15,Win,13730,859,2
+BML 1999,Live Fire - Ranked,Oddball,Win,57.8,5993,7157,218,126,92,0.68,-2.66,15,22,13,0,0,2905,0,4,Win,13730,859,2
+pb7bb7,Live Fire - Ranked,Oddball,Loss,60.91,6146,7713,220,134,86,0.63,-5.66,15,24,10,0,0,2140,2,10,Loss,10510,859,0
+Sir Britte,Live Fire - Ranked,Oddball,Loss,54.98,6255,7668,231,127,104,0.81,-3.66,21,26,4,0,0,2430,1,10,Loss,10510,859,0
+TTVWhaabamm1,Live Fire - Ranked,Oddball,Loss,57.28,5964,7229,206,118,88,0.81,-1.33,17,21,8,0,0,3320,1,10,Loss,10510,859,0
+OthyYEHx,Live Fire - Ranked,Oddball,Loss,52.61,5913,7371,230,121,109,0.84,-2.33,21,25,5,0,0,2620,1,8,Loss,10510,859,0
+
+Manxcy,Argyle - Ranked,CTF 3 Captures,Win,48.02,3739,2965,177,85,92,1.4,6.33,14,10,7,0,0,2085,1,6,Win,6765,395,3
+La Catarina,Argyle - Ranked,CTF 3 Captures,Win,62.81,3340,3034,121,76,45,1.63,6.66,13,8,5,0,0,1695,1,7,Win,6765,395,3
+TheMageLord,Argyle - Ranked,CTF 3 Captures,Win,50.0,2269,2840,94,47,47,0.86,1.0,6,7,6,0,0,1560,0,3,Win,6765,395,3
+BML 1999,Argyle - Ranked,CTF 3 Captures,Win,59.43,3339,2498,106,63,43,2.0,7.0,12,6,3,0,0,1425,2,8,Win,6765,395,3
+AThaiKiwi,Argyle - Ranked,CTF 3 Captures,Loss,44.63,2372,3305,121,54,67,0.67,-3.66,8,12,1,0,0,850,2,4,Loss,3695,395,0
+Patotally,Argyle - Ranked,CTF 3 Captures,Loss,53.85,3492,3111,130,70,60,1.09,2.33,12,11,4,0,0,1445,1,10,Loss,3695,395,0
+ShadowKillxr,Argyle - Ranked,CTF 3 Captures,Loss,60.66,3156,3062,122,74,48,0.82,-1.33,9,11,2,0,0,1000,2,6,Loss,3695,395,0
+J7 ZeR,Argyle - Ranked,CTF 3 Captures,Loss,42.22,1995,3282,135,57,78,0.18,-8.0,2,11,3,0,0,400,0,0,Loss,3695,395,0
+
+Manxcy,Live Fire - Ranked,King of the Hill,Win,51.3,5826,5212,230,118,112,0.94,2.0,17,18,9,0,1,2350,0,5,Win,9610,593,4
+La Catarina,Live Fire - Ranked,King of the Hill,Win,56.25,4117,4285,176,99,77,0.85,0.66,11,13,8,0,0,1985,1,6,Win,9610,593,4
+BML 1999,Live Fire - Ranked,King of the Hill,Win,57.47,5590,5357,221,127,94,1.06,5.66,17,16,14,0,0,2775,1,6,Win,9610,593,4
+TheMageLord,Live Fire - Ranked,King of the Hill,Win,50.94,4682,5467,212,108,104,1.0,2.33,17,17,7,0,0,2500,0,7,Win,9610,593,4
+Patotally,Live Fire - Ranked,King of the Hill,Loss,53.94,6692,5641,241,130,111,1.53,11.0,23,15,9,0,0,2985,0,13,Loss,8870,593,2
+ShadowKillxr,Live Fire - Ranked,King of the Hill,Loss,59.46,5306,4345,185,110,75,1.36,7.0,19,14,6,0,0,2350,2,6,Loss,8870,593,2
+AThaiKiwi,Live Fire - Ranked,King of the Hill,Loss,53.49,4978,5094,172,92,80,0.71,-1.33,12,17,11,0,0,1860,0,7,Loss,8870,593,2
+J7 ZeR,Live Fire - Ranked,King of the Hill,Loss,49.66,3136,5251,149,74,75,0.56,-5.0,9,16,6,0,0,1675,0,2,Loss,8870,593,2
+
+Manxcy,Live Fire - Ranked,King of the Hill,Win,57.92,4932,2887,183,106,77,2.14,10.66,15,7,8,0,0,2300,2,6,Win,7090,407,4
+La Catarina,Live Fire - Ranked,King of the Hill,Win,60.0,2946,3048,125,75,50,1.22,4.0,11,9,6,0,0,1490,1,5,Win,7090,407,4
+BML 1999,Live Fire - Ranked,King of the Hill,Win,41.83,2991,2159,153,64,89,2.33,8.66,14,6,2,0,0,1725,1,8,Win,7090,407,4
+TheMageLord,Live Fire - Ranked,King of the Hill,Win,51.41,3188,3216,142,73,69,0.67,-0.33,6,9,8,0,0,1575,0,0,Win,7090,407,4
+Sir Britte,Live Fire - Ranked,King of the Hill,Loss,57.48,3584,3515,127,73,54,1.3,3.66,13,10,2,0,0,1510,0,5,Loss,3945,407,0
+OthyYEHx,Live Fire - Ranked,King of the Hill,Loss,47.9,2579,3418,119,57,62,0.45,-5.66,5,11,1,0,0,575,0,2,Loss,3945,407,0
+TTVWhaabamm1,Live Fire - Ranked,King of the Hill,Loss,47.42,2081,3316,97,46,51,0.55,-4.0,6,11,3,0,0,910,0,2,Loss,3945,407,0
+pb7bb7,Live Fire - Ranked,King of the Hill,Loss,56.12,2818,4011,98,55,43,0.5,-5.33,7,14,5,0,0,950,0,4,Loss,3945,407,0
+
+Manxcy,Streets - Ranked,Oddball,Win,50.0,6723,6481,300,150,150,1.0,4.66,21,21,14,0,0,4130,3,11,Win,16025,964,2
+BML 1999,Streets - Ranked,Oddball,Win,55.64,10075,7517,514,286,228,1.95,23.33,39,20,13,0,0,4770,4,16,Win,16025,964,2
+TheMageLord,Streets - Ranked,Oddball,Win,44.14,7861,7705,324,143,181,1.09,6.33,25,23,13,0,0,3380,0,10,Win,16025,964,2
+La Catarina,Streets - Ranked,Oddball,Win,67.06,9509,6610,337,226,111,1.94,19.0,31,16,12,0,0,3745,4,18,Win,16025,964,2
+Sir Britte,Streets - Ranked,Oddball,Loss,60.0,8701,8536,290,174,116,0.86,0.66,24,28,14,0,0,3670,5,16,Loss,11670,964,1
+OthyYEHx,Streets - Ranked,Oddball,Loss,50.17,6136,8406,295,148,147,0.57,-8.33,16,28,11,0,0,2390,1,6,Loss,11670,964,1
+TTVWhaabamm1,Streets - Ranked,Oddball,Loss,49.68,6535,8451,308,153,155,0.78,-2.66,21,27,10,0,0,2720,1,14,Loss,11670,964,1
+pb7bb7,Streets - Ranked,Oddball,Loss,54.63,6691,9455,313,171,142,0.58,-9.33,19,33,14,0,0,2890,1,8,Loss,11670,964,1
+
+Manxcy,Forbidden - Ranked,CTF 3 Captures,Win,43.53,5428,4558,255,111,144,1.33,8.0,20,15,9,0,0,2810,1,13,Win,8025,546,3
+La Catarina,Forbidden - Ranked,CTF 3 Captures,Win,50.54,3739,4461,186,94,92,0.83,-0.33,10,12,5,0,0,1300,2,6,Win,8025,546,3
+TheMageLord,Forbidden - Ranked,CTF 3 Captures,Win,45.73,3748,5419,199,91,108,0.93,1.0,13,14,6,0,0,2505,1,6,Win,8025,546,3
+BML 1999,Forbidden - Ranked,CTF 3 Captures,Win,50.0,4292,4077,158,79,79,0.67,-3.33,10,15,5,0,0,1410,0,6,Win,8025,546,3
+AThaiKiwi,Forbidden - Ranked,CTF 3 Captures,Loss,53.25,3348,4447,154,82,72,0.86,-0.33,12,14,5,0,0,1545,0,2,Loss,7165,546,0
+ShadowKillxr,Forbidden - Ranked,CTF 3 Captures,Loss,62.73,6043,4433,220,138,82,1.58,10.33,19,12,10,0,0,2495,2,7,Loss,7165,546,0
+Patotally,Forbidden - Ranked,CTF 3 Captures,Loss,59.73,5912,3867,221,132,89,1.36,6.0,15,11,6,0,0,1890,3,18,Loss,7165,546,0
+J7 ZeR,Forbidden - Ranked,CTF 3 Captures,Loss,52.32,3057,4850,151,79,72,0.63,-4.66,10,16,4,0,0,1235,0,3,Loss,7165,546,0
+
+Manxcy,Solitude - Ranked,Strongholds,Win,53.37,4434,4056,208,111,97,0.92,3.66,11,12,14,0,0,2160,2,5,Win,9100,477,35
+BML 1999,Solitude - Ranked,Strongholds,Win,53.15,4206,3692,222,118,104,1.33,6.0,16,12,6,0,0,2335,1,5,Win,9100,477,35
+La Catarina,Solitude - Ranked,Strongholds,Win,64.2,4697,3354,176,113,63,2.63,15.0,21,8,6,0,0,2870,3,8,Win,9100,477,35
+TheMageLord,Solitude - Ranked,Strongholds,Win,43.83,3264,4358,162,71,91,0.71,-1.33,10,14,8,0,0,1735,0,2,Win,9100,477,35
+ShadowKillxr,Solitude - Ranked,Strongholds,Loss,70.17,5197,3819,181,127,54,1.31,5.33,17,13,4,0,0,2225,0,6,Loss,7535,477,250
+AThaiKiwi,Solitude - Ranked,Strongholds,Loss,49.18,2972,4033,122,60,62,0.79,-1.33,11,14,5,0,0,1700,0,4,Loss,7535,477,250
+Patotally,Solitude - Ranked,Strongholds,Loss,61.44,4057,4236,153,94,59,0.73,0.66,11,15,14,0,0,2260,0,3,Loss,7535,477,250
+J7 ZeR,Solitude - Ranked,Strongholds,Loss,47.62,3090,4513,147,70,77,0.44,-7.33,7,16,5,0,0,1350,0,2,Loss,7535,477,250
+
+Manxcy,Live Fire - Ranked,Oddball,Win,49.39,12965,12308,573,283,290,0.98,7.66,41,42,26,0,0,5955,3,9,Win,22710,1415,2
+TheMageLord,Live Fire - Ranked,Oddball,Win,50.61,10411,13269,413,209,204,0.76,-1.0,32,42,27,0,0,5415,0,7,Win,22710,1415,2
+La Catarina,Live Fire - Ranked,Oddball,Win,62.3,13786,12460,573,357,216,1.24,15.0,42,34,21,0,0,5615,4,17,Win,22710,1415,2
+BML 1999,Live Fire - Ranked,Oddball,Win,53.44,10985,11723,393,210,183,1.22,14.33,45,37,19,0,0,5725,1,20,Win,22710,1415,2
+Cyphonhawkex,Live Fire - Ranked,Oddball,Loss,38.25,5976,11895,434,166,268,0.55,-15.33,23,42,11,0,0,3265,0,9,Loss,20980,1415,1
+TheRealWIP03,Live Fire - Ranked,Oddball,Loss,48.32,10260,12444,416,201,215,0.62,-10.0,28,45,21,0,0,4925,0,10,Loss,20980,1415,1
+Happy 9000,Live Fire - Ranked,Oddball,Loss,63.96,18748,12894,627,401,226,1.65,31.33,66,40,16,0,0,7570,5,36,Loss,20980,1415,1
+Kaczeee,Live Fire - Ranked,Oddball,Loss,60.82,13330,11871,462,281,181,1.15,13.0,38,33,24,0,0,5220,3,13,Loss,20980,1415,1
+
+Manxcy,Empyrean - Ranked,CTF 3 Captures,Win,49.58,8005,6492,361,179,182,1.33,11.0,24,18,15,0,0,3545,1,13,Win,10840,663,3
+La Catarina,Empyrean - Ranked,CTF 3 Captures,Win,62.01,6772,4949,279,173,106,1.43,9.33,20,14,10,0,0,2720,2,10,Win,10840,663,3
+BML 1999,Empyrean - Ranked,CTF 3 Captures,Win,51.34,4698,4920,187,96,91,0.76,-1.66,13,17,7,0,0,2115,0,2,Win,10840,663,3
+TheMageLord,Empyrean - Ranked,CTF 3 Captures,Win,49.49,4727,5610,198,98,100,0.89,-0.33,16,18,5,0,0,2460,1,5,Win,10840,663,3
+TheRealWIP03,Empyrean - Ranked,CTF 3 Captures,Loss,55.81,4201,6335,215,120,95,0.5,-6.66,11,22,13,0,0,2160,0,4,Loss,9585,663,2
+Kaczeee,Empyrean - Ranked,CTF 3 Captures,Loss,62.26,7134,6054,265,165,100,1.73,13.33,26,15,7,0,0,3015,2,15,Loss,9585,663,2
+Cyphonhawkex,Empyrean - Ranked,CTF 3 Captures,Loss,43.69,3212,6029,222,97,125,0.61,-5.33,11,18,5,0,0,1450,0,2,Loss,9585,663,2
+Happy 9000,Empyrean - Ranked,CTF 3 Captures,Loss,67.31,7266,5958,208,140,68,1.06,5.66,19,18,14,0,0,2960,1,11,Loss,9585,663,2
+
+La Catarina,Recharge - Ranked,Oddball,Win,59.8,9557,9574,393,235,158,1.11,8.33,30,27,16,0,0,4150,3,21,Win,14705,1214,2
+Manxcy,Recharge - Ranked,Oddball,Win,51.54,11399,10669,487,251,236,0.82,0.0,27,33,18,0,0,3870,3,11,Win,14705,1214,2
+TheMageLord,Recharge - Ranked,Oddball,Win,46.73,8718,10292,443,207,236,0.76,-5.33,25,33,8,0,0,3335,1,8,Win,14705,1214,2
+BML 1999,Recharge - Ranked,Oddball,Win,47.25,8443,10715,400,189,211,0.79,-2.66,26,33,13,0,0,3350,0,9,Win,14705,1214,2
+DoNotDefyMe,Recharge - Ranked,Oddball,Loss,60.91,13894,11082,504,307,197,1.57,22.0,47,30,15,0,0,5770,4,46,Loss,17940,1214,1
+S0S OhKay,Recharge - Ranked,Oddball,Loss,44.66,8754,9103,459,205,254,0.74,-2.0,23,31,18,0,0,3275,1,7,Loss,17940,1214,1
+Spartarn Spy,Recharge - Ranked,Oddball,Loss,56.28,9999,9410,414,233,181,1.7,21.33,39,23,16,0,0,5260,4,23,Loss,17940,1214,1
+xThEdReAmMaKerX,Recharge - Ranked,Oddball,Loss,45.92,7757,8968,392,180,212,0.71,-1.33,17,24,17,0,0,3635,0,5,Loss,17940,1214,1
+
+La Catarina,Solitude - Ranked,King of the Hill,Win,58.3,6415,6101,271,158,113,0.75,0.0,15,20,15,0,0,2525,1,9,Win,11395,748,4
+TheMageLord,Solitude - Ranked,King of the Hill,Win,42.22,6227,5892,315,133,182,1.11,5.66,20,18,11,0,0,2850,1,5,Win,11395,748,4
+BML 1999,Solitude - Ranked,King of the Hill,Win,50.0,7451,6619,318,159,159,1.32,10.0,25,19,12,0,0,3345,1,12,Win,11395,748,4
+Manxcy,Solitude - Ranked,King of the Hill,Win,44.63,6745,5580,354,158,196,0.86,-0.33,18,21,8,0,0,2675,2,5,Win,11395,748,4
+S0S OhKay,Solitude - Ranked,King of the Hill,Loss,46.56,6388,7236,320,149,171,0.95,2.66,19,20,11,0,0,2750,1,9,Loss,11405,748,3
+Spartarn Spy,Solitude - Ranked,King of the Hill,Loss,61.04,6150,6506,249,152,97,1.11,6.66,20,18,14,0,0,3020,3,10,Loss,11405,748,3
+xThEdReAmMaKerX,Solitude - Ranked,King of the Hill,Loss,44.98,4205,6488,229,103,126,0.94,2.0,17,18,9,0,0,2400,0,5,Loss,11405,748,3
+DoNotDefyMe,Solitude - Ranked,King of the Hill,Loss,57.49,7392,6785,287,165,122,1.0,4.33,22,22,13,0,0,3235,4,20,Loss,11405,748,3
+
+La Catarina,Aquarius - Ranked,CTF,Win,56.16,3547,4305,146,82,64,0.79,-1.66,11,14,4,0,0,1595,1,6,Win,9180,501,5
+BML 1999,Aquarius - Ranked,CTF,Win,69.03,4763,4284,155,107,48,1.42,7.33,17,12,7,0,0,3330,1,5,Win,9180,501,5
+TheMageLord,Aquarius - Ranked,CTF,Win,53.55,3413,5029,211,113,98,0.69,-3.0,11,16,6,0,0,1945,0,2,Win,9180,501,5
+Manxcy,Aquarius - Ranked,CTF,Win,52.61,5830,4678,249,131,118,1.07,4.0,15,14,9,0,0,2310,3,7,Win,9180,501,5
+J7 ZeR,Aquarius - Ranked,CTF,Loss,48.17,3852,4846,191,92,99,0.73,-1.66,11,15,7,0,0,2030,0,4,Loss,8525,501,3
+AThaiKiwi,Aquarius - Ranked,CTF,Loss,52.67,3259,4292,150,79,71,0.53,-5.0,8,15,6,0,0,1245,0,3,Loss,8525,501,3
+ShadowKillxr,Aquarius - Ranked,CTF,Loss,61.9,4986,4038,210,130,80,1.3,6.66,13,10,11,0,0,2195,1,8,Loss,8525,501,3
+Patotally,Aquarius - Ranked,CTF,Loss,60.85,5921,4699,189,115,74,1.71,11.33,24,14,4,0,0,3055,2,16,Loss,8525,501,3
+
+La Catarina,Live Fire - Ranked,Strongholds,Win,60.91,5382,5746,220,134,86,0.94,2.33,15,16,10,0,0,2280,1,10,Win,10800,722,250
+BML 1999,Live Fire - Ranked,Strongholds,Win,60.34,7011,5555,237,143,94,1.92,16.0,25,13,12,0,0,3550,3,12,Win,10800,722,250
+Manxcy,Live Fire - Ranked,Strongholds,Win,49.17,6952,6537,301,148,153,0.86,1.33,18,21,13,0,0,2750,3,12,Win,10800,722,250
+TheMageLord,Live Fire - Ranked,Strongholds,Win,38.02,4943,6199,242,92,150,0.74,-2.66,14,19,7,0,0,2220,0,6,Win,10800,722,250
+ShadowKillxr,Live Fire - Ranked,Strongholds,Loss,58.86,6958,6186,299,176,123,1.0,4.0,17,17,12,0,0,2725,1,5,Loss,10805,722,193
+J7 ZeR,Live Fire - Ranked,Strongholds,Loss,38.58,3429,5826,197,76,121,0.56,-4.33,10,18,11,0,1,2025,0,4,Loss,10805,722,193
+AThaiKiwi,Live Fire - Ranked,Strongholds,Loss,55.06,6084,6494,267,147,120,0.85,0.0,17,20,9,0,0,2650,0,7,Loss,10805,722,193
+Patotally,Live Fire - Ranked,Strongholds,Loss,61.73,7453,6361,243,150,93,1.39,10.0,25,18,9,0,0,3405,2,17,Loss,10805,722,193
+

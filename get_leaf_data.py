@@ -50,8 +50,6 @@ def WriteToTextFile(filename, content):
 
 
 def ExportDataFromMatchURI(matchURI, filename):
-    # Add validation
-
     csvReq = requests.get(matchURI + "/csv")
     open("TempSeriesData\\" + filename, "wb").write(csvReq.content)
 
