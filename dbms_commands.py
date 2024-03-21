@@ -16,7 +16,7 @@ logger.propagate = False
 
 def GetConnection():
     DRIVER_NAME = 'SQL SERVER'
-    SERVER = 'MARKNOBLESRIGHT\SQLEXPRESS'
+    SERVER = 'INSERTCOMPUTERNAME\SQLEXPRESS'
     DATABASE = 'UHCL-Scrim-Data'
 
     connection_str = f"""
